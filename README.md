@@ -1,29 +1,41 @@
-🐦‍⬛ **Hello world!** Welcome to my GitHub roost, where curiosity takes flight and projects soar! Nestled amidst digital branches, I’m driven by a magpie’s insatiable curiosity, hunger for knowledge, and a passion to cultivate a diverse portfolio of projects. I embrace the old hacker philosophy that knowledge should be freely accessible to all.
+# 🐦‍⬛ Taking Flight to New Horizons
 
-Currently, I’m strengthening my programming and computer science fundamentals through Harvard's [CS50](https://korakophilos.net/cs50/), sharpening my full-stack development skills with [The Odin Project](https://korakophilos.net/theodinproject/), and solidifying my coding foundation with [freeCodeCamp](https://korakophilos.net/freecodecamp/). Each course is like adding a new feather to my wings, guiding me across the skies of web and software development.
+## Hello, world!
+Welcome to my GitHub roost—once a sanctuary of curiosity, now a nest in transition. For years, I’ve embraced the hacker ethos: knowledge should be free, tools should empower, and technology should serve people, not corporate interests.  
 
-Beyond simply accumulating projects, my goal is to imbue each creation with depth and purpose—whether they flutter as personal passions or take flight as professional milestones. I’m committed to building many of these projects in both English and Spanish, spreading my wings beyond linguistic barriers to promote inclusivity. Much like crows exchanging their intricate calls, this bilingual journey is about forging connections between cultures and communities.
-
-Here on GitHub, you’ll find my ongoing explorations and experiments. It’s more than just a repository—it’s a boundless sky where ideas hatch, collaborations flutter, and innovations soar. I’m always eager to learn, grow, and create.
-
-### Available for Freelance Work
-
-I’m open to freelance opportunities—if you need a creative collaborator or a developer who loves to explore, feel free to reach out. Let’s build robust structures, innovate solutions, and explore the boundless possibilities that await us!
-
-Come soar with me on this exhilarating journey of coding and creativity. Let the winds of curiosity carry us ever higher! **Fly with me!**
+But over time, I’ve grown disillusioned with Microsoft’s hold on GitHub. Their acquisition was the first red flag. The introduction of Copilot, built on the unpaid labor of open-source contributors, made things worse. Now, with Microsoft aligning itself with authoritarian narratives, it’s clear: this isn’t a platform I want to rely on any longer.  
 
 ---
 
-🐦‍⬛ **¡Hola mundo!** ¡Bienvenidos a mi nido en GitHub, donde la curiosidad despega y los proyectos surcan los cielos! Anidado entre ramas digitales, me impulsa la curiosidad insaciable de una urraca, el hambre de conocimiento y la pasión por cultivar un portafolio diverso de proyectos. Abrazo la antigua filosofía hacker de que el conocimiento debe ser accesible para todos.
+## **🚀 Migration in Progress**  
+Like a crow sensing a storm, I know when it’s time to fly. Moving forward, I will be **transitioning my projects to GitLab and Gitea**, prioritizing platforms that respect open-source ideals. This won’t happen overnight—I have a lot of work to move, but my long-term goal is clear: a future where my work isn’t tied to a company that undermines the very principles of openness and freedom.  
 
-Actualmente, estoy reforzando mis fundamentos de programación y ciencias de la computación con [CS50](https://korakophilos.net/cs50/) de Harvard, perfeccionando mis habilidades de desarrollo full-stack con [The Odin Project](https://korakophilos.net/theodinproject/) y solidificando mis bases de codificación con [freeCodeCamp](https://korakophilos.net/freecodecamp/). Cada curso es como agregar una nueva pluma a mis alas, guiándome a través de los cielos del desarrollo web y de software.
+---
 
-Más allá de simplemente acumular proyectos, mi objetivo es dar a cada creación profundidad y propósito, ya sea que revoloteen como pasiones personales o se conviertan en hitos profesionales. Me comprometo a desarrollar muchos de estos proyectos en inglés y en español, extendiendo mis alas más allá de las barreras lingüísticas para promover la inclusión. Al igual que los cuervos que comparten sus complejos llamados, este viaje bilingüe trata de forjar conexiones entre culturas y comunidades.
+## **🛠 What I’m Working On**  
+Despite my move, my love for building, learning, and hacking remains unwavering. I’m continuing to strengthen my programming and computer science fundamentals, refining my full-stack development skills, and contributing to projects that align with my values.  
 
-Aquí en GitHub, encontrarás mis exploraciones y experimentos en constante evolución. No es solo un repositorio, sino un cielo infinito donde nacen ideas, surgen colaboraciones y las innovaciones alzan el vuelo. Siempre estoy dispuesto a aprender, crecer y crear.
+Many of my projects will be **bilingual (English and Spanish)**, because accessibility and inclusivity should always be at the heart of technology. Much like crows exchanging their intricate calls, this bilingual journey is about forging connections between cultures and communities.  
 
-### Disponible para trabajo freelance
+---
 
-Estoy abierto a oportunidades de trabajo independiente. Si necesitas un colaborador creativo o un desarrollador con ganas de explorar, no dudes en contactarme. ¡Construyamos estructuras sólidas, desarrollemos soluciones innovadoras y exploremos las infinitas posibilidades que nos esperan!
+## **Where to Find Me**  
+- **Primary Code Repositories:** [GitLab](https://gitlab.com/korakophilos)
+- **Bluesky:** [@korakophilos.net](https://bsky.app/profile/korakophilos.net)  
+- **Personal Website:** [korakophilos.net](https://korakophilos.net)  
 
-¡Ven a volar conmigo en este emocionante viaje de codificación y creatividad! ¡Que los vientos de la curiosidad nos eleven cada vez más alto! **¡Vuela conmigo!**
+---
+
+## **Freelance Work & Collaboration**  
+I’m open to freelance opportunities—especially if you’re looking for a developer who values open-source, privacy, and ethical tech.  
+
+If you need a creative collaborator who’s ready to explore new possibilities outside the grip of Big Tech, let’s build something better together.  
+
+---
+
+## **The Future is Ours to Build**  
+Big Tech won’t create a better future for us—we have to build it ourselves. It’s not enough to just support open-source alternatives; we need to create new ones. We must forge the tools, networks, and infrastructure that don’t just replace Big Tech but *outlast* it.  
+
+A better world won’t come from corporations. We have to build it in the shell of this broken one.  
+
+**Fly with me—toward a future where technology serves people, not profit.**
