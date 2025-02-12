@@ -7,12 +7,12 @@ But over time, I’ve grown disillusioned with Microsoft’s hold on GitHub. The
 
 ---
 
-## **🚀 Migration in Progress**  
+## **Migration in Progress**  
 Like a crow sensing a storm, I know when it’s time to fly. Moving forward, I will be **transitioning my projects to GitLab and Gitea**, prioritizing platforms that respect open-source ideals. This won’t happen overnight—I have a lot of work to move, but my long-term goal is clear: a future where my work isn’t tied to a company that undermines the very principles of openness and freedom.  
 
 ---
 
-## **🛠 What I’m Working On**  
+## **What I’m Working On**  
 Despite my move, my love for building, learning, and hacking remains unwavering. I’m continuing to strengthen my programming and computer science fundamentals, refining my full-stack development skills, and contributing to projects that align with my values.  
 
 Many of my projects will be **bilingual (English and Spanish)**, because accessibility and inclusivity should always be at the heart of technology. Much like crows exchanging their intricate calls, this bilingual journey is about forging connections between cultures and communities.  
